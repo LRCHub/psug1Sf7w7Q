@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "メルト (やなぎなぎ ver.) [CPK! Remix]",
+  "base_track": "ワールドイズマイン (やなぎなぎ ver.) [CPK! Remix]",
   "base_artist": "ryo (supercell)、やなぎなぎ",
-  "createdAt": "2026-02-22T06:21:21.712203Z",
+  "createdAt": "2026-02-25T16:55:44.215903Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "メルト (やなぎなぎ ver.) [CPK! Remix]",
+      "title": "ワールドイズマイン (やなぎなぎ ver.) [CPK! Remix]",
       "artist": "ryo (supercell) & やなぎなぎ",
       "has_synced": false,
-      "path": "select/pl_01_メルト_(やなぎなぎ_ver.)_[CPK!_Remix]_ryo_(supercell)_&_やなぎなぎ.txt"
+      "path": "select/pl_01_ワールドイズマイン_(やなぎなぎ_ver.)_[CPK!_Remix]_ryo_(supercell)_&_やなぎなぎ.txt"
     }
   ]
 }
